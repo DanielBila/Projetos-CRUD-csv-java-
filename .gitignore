@@ -1,0 +1,9 @@
+# Arquivos compilados
+bin/
+*.class
+
+# Workspace do Eclipse
+.metadata/
+
+# Arquivos de dados gerados ao rodar os apps na raiz
+/*.csv
